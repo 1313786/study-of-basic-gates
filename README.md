@@ -1,4 +1,6 @@
-### study-of-basic-gates
+### study-of-basic-
+NAME:N.IRFAN KHAN
+REG NO:212224230097
 
 **AIM:** 
 
@@ -64,16 +66,38 @@ Y= A⊕B
 
 **PROGRAM**
 
+
 Program for logic gates and verify its truth table in quartus using Verilog programming
+module log_gat(a,b,c1,c2,c3,c4,c5,c6,c7);
+
+input a,b;
+
+output c1,c2,c3,c4,c5,c6,c7;
+
+not g1(c1,a);
+
+and g2(c2,a,b);
+
+or g3(c3,a,b);
+
+nand g4(c4,a,b);
+
+nor g5(c5,a,b);
+
+xor g6(c6,a,b);
+
+xnor g7(c7,a,b);
+
+endmodule
+
 
  Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
 
+
 **RTL realization Output:** 
-
-**RTL**
-
-**Result:**
+![Screenshot 2024-12-23 134943](https://github.com/user-attachments/assets/dd97a1e2-c6e7-48fe-9a77-371ed7dd46aa)
 
 
+**RTL
