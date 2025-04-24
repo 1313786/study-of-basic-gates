@@ -1,6 +1,8 @@
-### study-of-basic-
-NAME:IRFAN KHAN.n
-REF NO:212224230097
+**Name:IRFAN KHAN.N**
+
+**REGISTER NO: 212224230097
+
+### EX NO: 1 - STUDY OF BASIC GATES
 
 **AIM:** 
 
@@ -66,46 +68,28 @@ Y= A⊕B
 
 **PROGRAM**
 
+![Screenshot 2025-03-03 113527](https://github.com/user-attachments/assets/5edc5b3c-e245-4e53-b77b-263ef243a500)
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
-module log_gat(a,b,c1,c2,c3,c4,c5,c6,c7);
-
-input a,b;
-
-output c1,c2,c3,c4,c5,c6,c7;
-
-not g1(c1,a);
-
-and g2(c2,a,b);
-
-or g3(c3,a,b);
-
-nand g4(c4,a,b);
-
-nor g5(c5,a,b);
-
-xor g6(c6,a,b);
-
-xnor g7(c7,a,b);
-
-endmodule
-
-
- Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
 
+![logic-gates](https://github.com/user-attachments/assets/d3d8c10e-b492-4d23-a2f6-6c3b14637d7a)
+
 
 **RTL realization Output:** 
-![Screenshot 2024-12-23 134943](https://github.com/user-attachments/assets/dd97a1e2-c6e7-48fe-9a77-371ed7dd46aa)
 
 
-**RTL
-![de e1-a](https://github.com/user-attachments/assets/7f221108-d2d5-4ebf-bf59-0e46f1d303a6)
+![Screenshot 2025-03-03 110731](https://github.com/user-attachments/assets/c9378f6e-0c5a-40a4-ae96-a247ad9760d2)
 
+
+**WAVEFORM:**
+
+
+![Screenshot 2025-03-03 113447(1)(1)](https://github.com/user-attachments/assets/41c7d107-99c2-4901-b724-3751deaebb55)
 
 
 **Result:**
-Thus program is verified.
+
+Therefore the truth table of logic gates in Quartus II using Verilog programming is studied and verified.
 
 
