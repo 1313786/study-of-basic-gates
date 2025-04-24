@@ -1,6 +1,6 @@
 ### study-of-basic-
-NAME:N.IRFAN KHAN
-REG NO:212224230097
+NAME:IRFAN KHAN.n
+REF NO:212224230097
 
 **AIM:** 
 
@@ -101,3 +101,11 @@ endmodule
 
 
 **RTL
+![de e1-a](https://github.com/user-attachments/assets/7f221108-d2d5-4ebf-bf59-0e46f1d303a6)
+
+
+
+**Result:**
+Thus program is verified.
+
+
